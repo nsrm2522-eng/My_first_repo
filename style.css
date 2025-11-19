@@ -1,6 +1,9 @@
 h1{
-    color: red;
+    color: black;
     padding: 7px;
     margin: 9px;
-    background-color: aqua;
+}
+
+body{
+    background-color: aquamarine;
 }
